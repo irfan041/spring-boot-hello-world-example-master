@@ -1,4 +1,4 @@
-package com.demo;
+package com.demo.springboot;
 
 import java.sql.CallableStatement;
 import java.sql.Connection;
